@@ -494,8 +494,6 @@
 ### 7.5 总结
 
 
-test checkout
-
 
 
 
